@@ -1,7 +1,4 @@
 hello everyone
 hi
 gud mrng
-gud evng
-gud afrn
-gud nyt
-end
+
